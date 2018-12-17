@@ -1,0 +1,38 @@
+Kubernetes is now the standard open source platform to automate the management and scaling of modern, containerized applications. As businesses adopt cloud native microservice architectures, Kubernetes serves as the orchestrator to increase application availability, scalability, and portability—while also lowering costs. 
+
+We’re excited to announce the availability of DigitalOcean Kubernetes (DOK8s), a powerfully simple managed Kubernetes service.
+
+ 
+ 	
+Accelerate your releases with DOK8s
+
+ 
+Deploy faster
+Configure a Kubernetes cluster in seconds. Provision and access your cluster in a few minutes.
+
+ 
+Easily scale
+Reliably scale your persistent storage and incoming traffic using the native integration with Block Storage and Load Balancers.
+
+ 
+Improve performance and lower costs
+See up to 2.4x better price to performance compared to other providers.
+ 
+ 	
+Activate your account and run DOK8s
+ 
+ 	 	 
+
+ 	
+
+To learn more, check out our white paper “Running Cloud Native Applications on DigitalOcean Kubernetes” for an introduction to leveraging Kubernetes to manage and scale applications.
+
+Happy Coding,
+Team DOK8s
+
+ We’d love to know what you think of DOK8s. Share your thoughts on our Kubernetes product or trends you’re following in the K8s space for a chance to win a limited edition #DOK8s T-shirt. Enter to win at do.co/k8s-giveaway — it’s as simple as tweeting!
+ 
+ 	 	 
+“The Kubernetes service from @digitalocean is looking to be one of the easiest and quickest I've used so far.” 
+
+Alex Ellis, OpenFaaS Founder (November 2018)
