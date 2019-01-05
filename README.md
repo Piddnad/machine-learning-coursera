@@ -83,5 +83,7 @@ Rated 4 for Alien (1979)
 Rated 5 for Die Hard 2 (1990)
 Rated 5 for Sphere (1998)
 ```
---- 2018.01.05
+--- 2019.01.05
+
+**Thank you, professor Andrew Ng.**
 
